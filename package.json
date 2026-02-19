@@ -1,0 +1,9 @@
+{
+  "name": "on-chain-orderbook",
+  "version": "1.0.0",
+  "main": "OrderBook.sol",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
